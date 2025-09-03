@@ -26,13 +26,13 @@ After rigorous training and testing, the models yielded the following accuracies
 
 | Model                | Accuracy |
 | -------------------- | -------- |
-| **XGBoost Classifier**   | **97.07%**   |
+| **XGBoost Classifier**   | **96.85%**   |
 | Random Forest        | 96.27%   |
 | CNN                  | 96.46%   |
 | Logistic Regression  | 96.55%   |
 | K-Nearest Neighbors (KNN) | 96.22% |
 
-The XGBoost model emerged as the top-performing model with an impressive accuracy of 97.07%.
+The XGBoost model emerged as the top-performing model with an impressive accuracy of 96.85%.
 
 ## Technologies Used
 
