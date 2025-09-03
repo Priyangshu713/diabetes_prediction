@@ -26,7 +26,7 @@ After rigorous training and testing, the models yielded the following accuracies
 
 | Model                | Accuracy |
 | -------------------- | -------- |
-| XGBoost Classifier   | **97.07%**   |
+| **XGBoost Classifier**   | **97.07%**   |
 | Random Forest        | 96.27%   |
 | CNN                  | 96.46%   |
 | Logistic Regression  | 96.55%   |
