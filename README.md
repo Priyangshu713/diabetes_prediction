@@ -10,7 +10,7 @@ The primary goal of this project is to build a highly accurate classification mo
 
 The dataset used for this project is the "Diabetes Prediction Dataset" available on Kaggle. It contains several medical predictor variables and one target variable, diabetes.
 
-**Dataset Link:** [Diabetes Prediction Dataset](https://www.kaggle.com/datasets/iammustafasultan/diabetes-prediction-dataset)
+**Dataset Link:** [Diabetes Prediction Dataset](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset)
 
 ## Models and Results
 
@@ -26,11 +26,11 @@ After rigorous training and testing, the models yielded the following accuracies
 
 | Model                | Accuracy |
 | -------------------- | -------- |
-| XGBoost Classifier   | 97.07%   |
-| Random Forest        | (Your Accuracy) |
-| CNN                  | (Your Accuracy) |
-| Logistic Regression  | (Your Accuracy) |
-| K-Nearest Neighbors (KNN) | (Your Accuracy) |
+| XGBoost Classifier   | **97.07%**   |
+| Random Forest        | 96.27%   |
+| CNN                  | 96.46%   |
+| Logistic Regression  | 96.55%   |
+| K-Nearest Neighbors (KNN) | 96.22% |
 
 The XGBoost model emerged as the top-performing model with an impressive accuracy of 97.07%.
 
@@ -51,7 +51,7 @@ To replicate the results, please follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone [https://github.com/Priyangshu713/diabetes_prediction.git](https://github.com/Priyangshu713/diabetes_prediction.git)
     ```
 
 2.  **Install the required dependencies:**
