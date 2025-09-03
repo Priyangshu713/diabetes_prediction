@@ -51,7 +51,7 @@ To replicate the results, please follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Priyangshu713/diabetes_prediction.git](https://github.com/Priyangshu713/diabetes_prediction.git)
+    git clone https://github.com/Priyangshu713/diabetes_prediction
     ```
 
 2.  **Install the required dependencies:**
