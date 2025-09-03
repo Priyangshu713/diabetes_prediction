@@ -1,0 +1,14 @@
+# This file lists the Python packages that your project depends on.
+# To install all the dependencies, run this command in your terminal:
+pip install -r requirements.txt
+--- Data Science ---
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.0
+matplotlib==3.9.0
+--- Web Development ---
+flask==3.0.3
+django==5.0.6
+requests==2.32.3
+--- Other Utilities ---
+beautifulsoup4==4.12.3
